@@ -5,7 +5,7 @@ var https = require('https');
 console.log("I did it!");
 
 var options = {
-  host: 'strem-large-file.herokuapp.com',
+  host: 'stream-large-file.herokuapp.com',
   path: '/give-me-stuff-now'
 };
 
